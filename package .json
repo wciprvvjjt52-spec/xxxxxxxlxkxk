@@ -1,0 +1,27 @@
+{
+  "name": "wazer-userbot",
+  "version": "4.0.0",
+  "description": "Wazer Userbot Manager - Telegram Userbot with Multi-Bot Support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegram": "^2.8.1",
+    "input": "^1.0.1",
+    "node-fetch": "^2.6.9"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "userbot",
+    "spam",
+    "multi-bot",
+    "wazer"
+  ],
+  "author": "Wazer",
+  "license": "MIT"
+}
